@@ -1,3 +1,3 @@
 # jakispierwszycos
 
-<a href="index.html">kliknij</a>
+<a href="wizytówka.html">kliknij</a>
